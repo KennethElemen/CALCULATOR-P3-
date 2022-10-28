@@ -1,0 +1,11 @@
+C:\Users\HP\source\repos\CALCULATORP3\obj\Debug\CALCULATORP3.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\CALCULATORP3\obj\Debug\CALCULATORP3.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\source\repos\CALCULATORP3\obj\Debug\CALCULATORP3.Form1.resources
+C:\Users\HP\source\repos\CALCULATORP3\obj\Debug\CALCULATORP3.Properties.Resources.resources
+C:\Users\HP\source\repos\CALCULATORP3\obj\Debug\CALCULATORP3.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\CALCULATORP3\obj\Debug\CALCULATORP3.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\CALCULATORP3\bin\Debug\CALCULATORP3.exe.config
+C:\Users\HP\source\repos\CALCULATORP3\bin\Debug\CALCULATORP3.exe
+C:\Users\HP\source\repos\CALCULATORP3\bin\Debug\CALCULATORP3.pdb
+C:\Users\HP\source\repos\CALCULATORP3\obj\Debug\CALCULATORP3.exe
+C:\Users\HP\source\repos\CALCULATORP3\obj\Debug\CALCULATORP3.pdb
